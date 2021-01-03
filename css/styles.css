@@ -145,6 +145,16 @@ padding-bottom: 7%;
   }
   #title {
     text-align: center;
+  
+  }
+  #pricing .h2{
+    font-family: "montserrat";
+    font-weight: 550;
+    line-height: 1.3;
+    font-size: 2.5rem;
+    color: #fff;
+    margin-bottom: 30px;
+   
   }
 }
 @media (max-width: 470px) {
